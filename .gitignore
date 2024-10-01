@@ -1,8 +1,7 @@
-.DS_Store
-/other
-*.aux
-*.fdb_latexmk
-*.log
-*.out
-*.gz
-*.fls
+# Ignore everything
+*
+# But not these files...
+!.gitignore
+!resume.pdf
+!resume.tex
+
